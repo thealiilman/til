@@ -29,6 +29,6 @@ addBook({
   }
 }
 ```
-The first destructured element (`addBook`) is the mutate function. The second argument is the mutation result, which consist of properties such as `loading` and `data`.
+`useMutation(queryName)` returns two elements. The first element (`addBook`) is the mutate function. The second element (`mutationResult`) is the mutation result, which consist of properties such as `loading` and `data`.
 
 Refer to this (wonderfully organised) [documentation](https://www.apollographql.com/docs/react/data/mutations/#usemutation-api) for more info about the _mutate function_'s arguments and _mutation result_'s properties.
