@@ -1,4 +1,4 @@
-# S01L03 - What is Docker?
+# What is Docker?
 Docker is an **ecosystem** for creating & running containers.
 Within the ecosystem, there are tools such as **Docker Compose**. These tools work together for a process called **Containerization**.
 
