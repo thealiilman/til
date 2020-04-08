@@ -1,4 +1,4 @@
-What is a Container?
+# What is a Container?
 A container is a section in your hard-drive that _contains specific processes and resources within the section itself_.
 
 ## How does an image relates to a container?
