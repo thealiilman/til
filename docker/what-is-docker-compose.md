@@ -1,5 +1,5 @@
 # What is Docker Compose
-**Docker Compose** is a separate **CLI** that is installed along with Docker.
+**Docker Compose** is a tool that is installed along with Docker.
 
 ## Features
 1. Used to start multiple containers at the same time
